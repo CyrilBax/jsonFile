@@ -1,0 +1,97 @@
+{
+  "skipper": [
+    {
+      "bio": {
+        "name": "Francis",
+        "firstName": "JOYON",
+        "nationality": "France",
+        "classe": "ultime",
+        "participation": 6,
+        "type": "Coureur pro",
+        "picture": "https://france3-regions.francetvinfo.fr/bretagne/sites/regions_france3/files/styles/top_big/public/assets/images/francis_joyon.jpg?itok=9RcC2IIN",
+        "sponsor": "IDEC SPORT",
+        "birthday": {
+          "date": "28 mai 1956",
+          "place": "Locmariaquer"
+        },
+        "bio": "Francis Joyon, né le 28 mai 1956 à Hanches (Eure-et-Loir), est un navigateur français revendiquant être un « Beauceron sur la mer ». Il commence sa carrière de coureur au large en 1988 et participe à sa première Route du Rhum en 1990. En 2000, il remporte sa première grande épreuve à l'occasion de la Transat anglaise.\n\nEn 2004, il est le premier marin à boucler sans escale un tour du monde sur multicoque en solitaire. En 2008, il reprend le record à Ellen MacArthur et devient le nouveau détenteur du record du tour du monde à la voile en solitaire en 57 j 13 h 34 min 06 s, sur le trimaran IDEC, avant que ce record ne soit battu en 2016, le jour de Noël par Thomas Coville sur Sodebo Ultim' qui boucle son tour du monde en moins de cinquante jour, puis par François Gabart établit en 42 jours 16 heures 40 minutes et 35 secondes. Il remporte ensuite de nombreux records océaniques, devenant l'un des meilleurs spécialistes.\n\nLe 26 janvier 2017, Francis Joyon et ses cinq hommes d'équipage s'emparent du nouveau record du tour du monde à la voile en équipage en 40 j 23 h 30 min 30 s sur le trimaran Ultime IDEC Sport. Il s'empare ainsi du Trophée Jules-Verne, détenu jusqu'alors par Loïck Peyron et ses treize membres d'équipage sur Maxi Banque Populaire V améliorant au passage la marque de plus de 4 jours.\n\nLe 11 novembre 2018, au terme d'une arrivée très serrée avec François Gabart, qu'il dépasse à la sortie du canal des Saintes, il remporte la Route du Rhum pour sa septième participation, avec 7 minutes d'avance sur son poursuivant.",
+        "palmares": [
+          {
+            "years": "2000",
+            "name": "1er Transat anglaise"
+          },
+          {
+            "years": "2001",
+            "name": "1er fastnet"
+          },
+          {
+            "years": "2010",
+            "name": "2ème route du rhum"
+          },
+          {
+            "years": "2017",
+            "name": "2ème the bridge"
+          }
+        ]
+      },
+      "boat": {
+        "name": "IDEC SPORT",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsvZ1rd17vb0tayBa8j8onuzDp2pc2GcW6mmMPToLVUHB3gYa",
+        "feature":
+          {
+            "number": 12,
+            "height": 20,
+            "width": 5,
+            "length": 25,
+            "archi": "ROLLAND"
+          }
+      }
+    },
+    {
+      "bio": {
+        "name": "Francois",
+        "firstName": "GABART",
+        "nationality": "France",
+        "classe": "ultime",
+        "participation": 1,
+        "type": "Coureur pro",
+        "picture": "https://brandandcelebrities.com/wp-content/uploads/2019/02/86-Francois-Gabart.gif",
+        "birthday": {
+          "date": "23 mars 1983",
+          "place": "La forêt Fouesnant"
+        },
+        "bio": "François Gabart est un navigateur et un skipper professionnel français, né le 23 mars 1983 à Saint-Michel-d'Entraygues en Charente.\n\nLe 27 janvier 2013 aux Sables d'Olonne, il remporte la 7e édition du Vendée Globe en établissant un nouveau record de la circumnavigation en solitaire, sans escale sur monocoque, en 78 jours 2 h 16 min 40 s.\n\nSur les bateaux Macif, il remporte ensuite la Route du Rhum 2014 dans la catégorie classe IMOCA et la Transat Jacques-Vabre 2015 avec Pascal Bidégorry, et la Transat anglaise 2016, sa première victoire solitaire en multicoques.\n\nLe 17 décembre 2017, il bat le record du tour du monde en solitaire sur son trimaran de la classe Ultime, en 42 jours 16 h 40 min 35 s, améliorant de plus de six jours le précédent record qu'avait établi Thomas Coville en 2016. Le 14 novembre précédent, alors qu'il est en mer depuis dix jours, il devient le premier skipper solitaire à passer au-dessus de la barre des 800 milles nautiques en une seule journée avec un total de 851 milles.",
+        "palmares": [
+          {
+            "years": "2012",
+            "name": "1er Vendée globe"
+          },
+          {
+            "years": "2014",
+            "name": "1er Route du rhum"
+          },
+          {
+            "years": "2015",
+            "name": "1er Transat Jacques vabre"
+          },
+          {
+            "years": "2016",
+            "name": "1er Transat bakerly"
+          }
+        ]
+      },
+      "boat": {
+        "name": "Trimaran MACIF",
+        "picture": "https://img.lemde.fr/2017/11/12/0/0/3543/2362/688/0/60/0/c70f12a_11158-8v2qig.1hcx72e29.jpg",
+        "feature":
+        {
+          "number": 301,
+          "height": 33,
+          "width": 21.5,
+          "length": 30.6,
+          "archi": "VPLP"
+        }
+      }
+    }
+  ]
+}
