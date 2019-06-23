@@ -1,51 +1,51 @@
 {
   "events": [
-  {
-      "id": 0
-      "classe": "ultime"
-      "logo": "https://cdn-s-www.lalsace.fr/images/C42B7EE4-CA95-4890-BF05-39B39592E692/JDE_V0_07/le-multicoque-edmond-de-rothschild-skippe-par-le-francais-sebastien-josse-battra-t-il-le-record-de-vitesse-de-la-route-du-rhum-(photo-e-stichelbaut-gitana).jpg"
-      "Date": "04-03-2019"
-      "heure": "9h30"
+    {
+      "id": 0,
+      "classe": "ultime",
+      "logo": "https://cdn-s-www.lalsace.fr/images/C42B7EE4-CA95-4890-BF05-39B39592E692/JDE_V0_07/le-multicoque-edmond-de-rothschild-skippe-par-le-francais-sebastien-josse-battra-t-il-le-record-de-vitesse-de-la-route-du-rhum-(photo-e-stichelbaut-gitana).jpg",
+      "Date": "04-03-2019",
+      "heure": "9h30",
       "titre": "Sébastien Josse participe à sa 3e Route du Rhum"
     },
     {
-      "id": 1
-      "classe": "Multi 50"
-      "logo": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2018/11/04/direct-route-du-rhum-armel-le-cleac-h-au-ralenti-au-large-de-roscoff-francois-gabart-et-thomas.jpg?itok=zsPYi66L"
-      "Date": "04-03-2019"
-      "heure": "12h30"
+      "id": 1,
+      "classe": "Multi 50",
+      "logo": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2018/11/04/direct-route-du-rhum-armel-le-cleac-h-au-ralenti-au-large-de-roscoff-francois-gabart-et-thomas.jpg?itok=zsPYi66L",
+      "Date": "04-03-2019",
+      "heure": "12h30",
       "titre": "Armel Le Cléac'h est reparti après son escale technique à Roscoff"
     },
     {
-      "id": 2
-      "classe": "Imoca"
-      "logo": "http://www.gitana-team.com/img/events/evt_105_cover.jpg"
-      "Date": "05-03-2019"
-      "heure": "10h30"
+      "id": 2,
+      "classe": "Imoca",
+      "logo": "http://www.gitana-team.com/img/events/evt_105_cover.jpg",
+      "Date": "05-03-2019",
+      "heure": "10h30",
       "titre": "ROUTE DU RHUM DESTINATION GUADELOUPE"
     },
     {
-      "id": 3
-      "classe": "Class 40"
-      "logo": "http://img.over-blog-kiwi.com/1/04/49/45/20141102/ob_b393f9_depart-route-du-rhum-dans-le-peloton.jpg"
-      "Date": "19-03-2019"
-      "heure": "10h30"
+      "id": 3,
+      "classe": "Class 40",
+      "logo": "http://img.over-blog-kiwi.com/1/04/49/45/20141102/ob_b393f9_depart-route-du-rhum-dans-le-peloton.jpg",
+      "Date": "19-03-2019",
+      "heure": "10h30",
       "titre": "pourquoi la Route du Rhum porte-t-elle ce nom ?"
     },
     {
-      "id": 4
-      "classe": "Rhum Multi"
-      "logo": "https://cdn.radiofrance.fr/s3/cruiser-production/2018/10/4cd67c29-f658-48a1-a586-bc968783f76e/870x489_maxsportsworldtwo207398.jpg"
-      "Date": "04-05-2019"
-      "heure": "9h00"
+      "id": 4,
+      "classe": "Rhum Multi",
+      "logo": "https://cdn.radiofrance.fr/s3/cruiser-production/2018/10/4cd67c29-f658-48a1-a586-bc968783f76e/870x489_maxsportsworldtwo207398.jpg",
+      "Date": "04-05-2019",
+      "heure": "9h00",
       "titre": "les favoris de la course"
     },
     {
-      "id": 5
-      "classe": "Rhum Mono "
-      "logo": "https://france3-regions.francetvinfo.fr/bretagne/sites/regions_france3/files/styles/top_big/public/assets/images/2018/11/05/gitana_17_et_macif-3926354.jpg?itok=lK5GGjtA"
-      "Date": "04-06-2019"
-      "heure": "11h40"
+      "id": 5,
+      "classe": "Rhum Mono ",
+      "logo": "https://france3-regions.francetvinfo.fr/bretagne/sites/regions_france3/files/styles/top_big/public/assets/images/2018/11/05/gitana_17_et_macif-3926354.jpg?itok=lK5GGjtA",
+      "Date": "04-06-2019",
+      "heure": "11h40",
       "titre": "avaries, échouage, casse, tout ce qu'il s'est passé en 24h de course"
     }
   ]
