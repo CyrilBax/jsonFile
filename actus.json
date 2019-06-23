@@ -10,7 +10,7 @@
     },
     {
       "id": 1,
-      "classe": "ultime",
+      "classe": "Multi 50",
       "logo": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2018/11/04/direct-route-du-rhum-armel-le-cleac-h-au-ralenti-au-large-de-roscoff-francois-gabart-et-thomas.jpg?itok=zsPYi66L",
       "Date": "04-03-2019",
       "heure": "12h30",
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "classe": "ultime",
+      "classe": "Imoca",
       "logo": "http://www.gitana-team.com/img/events/evt_105_cover.jpg",
       "Date": "05-03-2019",
       "heure": "10h30",
@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "classe": "ultime",
+      "classe": "Class 40",
       "logo": "http://img.over-blog-kiwi.com/1/04/49/45/20141102/ob_b393f9_depart-route-du-rhum-dans-le-peloton.jpg",
       "Date": "19-03-2019",
       "heure": "10h30",
@@ -34,7 +34,7 @@
     },
     {
       "id": 4,
-      "classe": "ultime",
+      "classe": "Rhum Multi",
       "logo": "https://cdn.radiofrance.fr/s3/cruiser-production/2018/10/4cd67c29-f658-48a1-a586-bc968783f76e/870x489_maxsportsworldtwo207398.jpg",
       "Date": "04-05-2019",
       "heure": "9h00",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "classe": "ultime",
+      "classe": "Rhum Mono ",
       "logo": "https://france3-regions.francetvinfo.fr/bretagne/sites/regions_france3/files/styles/top_big/public/assets/images/2018/11/05/gitana_17_et_macif-3926354.jpg?itok=lK5GGjtA",
       "Date": "04-06-2019",
       "heure": "11h40",
