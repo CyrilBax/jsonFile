@@ -1,16 +1,3 @@
 [
-{
-  "cardId":09,
-  "name":"Anduin Wrynn",
-  "cardSet":"Basic",
-  "type":"Hero",
-  "img":"http://media.services.zam.com/v1/media/byName/hs/cards/enus/HERO_09.png"
-},
-{
-  "cardId":01,
-  "name":"Anduin Wrynn",
-  "cardSet":"Basic",
-  "type":"Hero",
-  "img":"http://media.services.zam.com/v1/media/byName/hs/cards/enus/HERO_09.png"
-}
+
 ]
